@@ -290,7 +290,7 @@ async function run() {
       }
     });
 
-    // Get Proposals - Retrieve all proposals if user is an admin
+    // Get Proposals - Retrieve all proposals if user is an #admin
     app.get("/makeproposal", async (req, res) => {
       try {
         const userEmail = req.query.email;

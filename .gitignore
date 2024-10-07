@@ -21,4 +21,4 @@ Thumbs.db
 .idea/
 
 # Build files (if applicable)
-dist/
+dist/ 
